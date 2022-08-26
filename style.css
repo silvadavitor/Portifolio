@@ -1,0 +1,67 @@
+
+        img{
+            width: 400px;
+            height: 300px;
+        }
+        .linkedin{
+            width: 50px;
+            height: 50px;
+
+        }
+        .github{
+            width: 55px;
+            height: 55px;
+        }
+        .zap{
+            width: 55px;
+            height: 55px;
+        }
+        .email{
+            width: 55px;
+            height: 55px;
+        }
+        body{
+            background-image:url(https://img.freepik.com/vetores-gratis/fundo-branco-e-cinza-com-padrao-de-linhas-diagonais_1017-25100.jpg?w=2000);           
+            text-align: center;
+            
+                    
+        }
+        .p2{
+            font-family: "Monaco", monospace;
+            font-size: 30px;
+            font-weight: 500;
+
+            }
+
+        .p1{
+            font-size: 55px;
+            font-weight: 500;
+            text-transform: uppercase;
+
+        }
+        .p3{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            font-weight: 500;
+        }
+        .p4{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 25px; 
+            font-weight: 600;
+        }
+        .f1{
+            width: 200px;
+    height: 200px;
+    border: 5px;
+    border-color: rgb(17, 17, 17);
+    border-style: solid;
+    border-radius: 100px;
+    box-shadow:2px 9px 75px 6px rgba(0,0,0,0.6);}
+    hr{
+        width: 65%;
+    }
+    .logo{
+        width: 190px;
+        height: 150px;
+    }
+    
